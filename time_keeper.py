@@ -3,7 +3,7 @@ import argparse
 import time
 from datetime import datetime
 
-DATA_FILE = '/Users/plude/.scripts/track_development/time_data.txt'
+DATA_FILE = '/Users/plude/.scripts/time_keeper/time_data.txt'
 DT_FORMAT = '%Y-%m-%d %H:%M:%S.%f'
 
 def init_parser():
